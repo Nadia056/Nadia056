@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nadia salazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadia salazar" height="30" width="40" /></a>
+<a href="https://fb.com/people/nadia-salazar/pfbid0ot7ij8r2eajzyjz5uh3k2lagub5b5pesjdhc95bjxhvp114wf5b5zifzbhfeuddcl/?ref=xav_ig_profile_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="people/nadia-salazar/pfbid0ot7ij8r2eajzyjz5uh3k2lagub5b5pesjdhc95bjxhvp114wf5b5zifzbhfeuddcl/?ref=xav_ig_profile_web" height="30" width="40" /></a>
 <a href="https://instagram.com/nadia.s365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadia.s365" height="30" width="40" /></a>
 </p>
 
