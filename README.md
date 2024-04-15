@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://fb.com/nadia salazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com/nadia salazar" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nadia.s365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nadia.s365/" height="30" width="40" /></a>
+<a href="https://fb.com/nadia salazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadia salazar" height="30" width="40" /></a>
+<a href="https://instagram.com/nadia.s365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadia.s365" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
